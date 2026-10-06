@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "africaread",
+			"path": "../../africaread"
+		},
+		{
+			"name": "vocsy_epub_viewer",
+			"path": ".."
+		},
+		{
+			"name": "africaread",
+			"path": "../../../laravel/africaread"
+		}
+	],
+	"settings": {}
+}
